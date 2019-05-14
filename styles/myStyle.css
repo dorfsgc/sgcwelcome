@@ -1,0 +1,56 @@
+body {
+    direction: rtl;
+    font-family: 'Heebo', sans-serif;
+}
+
+#openbk {
+    background-image: url('../images/open.png');
+    height: 51vw;
+    background-size: 100vw auto;
+}
+
+#gray {
+    background-color: rgba(232, 233, 234, 100);
+}
+
+h1 {
+    font-size:4vw;
+    margin-bottom:0px;
+    text-align:center;
+}
+
+h2 {
+    font-size: 2vw;
+    margin-top: 0px;
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5vw;
+    margin-top:2%;
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+#orangebk {
+    background-color: #E6A936;
+    width: 100%;
+    position:relative;
+    padding-bottom:2VW;
+}
+
+#greenbk {
+    background-color: #68C29F;
+    width: 100%;
+    position: relative;
+    padding-bottom: 2VW;
+}
+
+p{
+    font-size: 1vw;
+}
+
+#container {
+    nargin: 10vw;
+}
