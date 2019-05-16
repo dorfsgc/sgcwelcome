@@ -47,6 +47,21 @@ h3 {
     padding-bottom: 2VW;
 }
 
+#pinkbk {
+    background-color: #D04B9A;
+    width: 100%;
+    position: relative;
+    padding-bottom: 2VW;
+}
+
+#pinkbk h3 {
+    color:white
+}
+
+    #pinkbk p {
+        color: white
+    }
+
 p{
     font-size: 1vw;
 }
